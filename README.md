@@ -1,7 +1,7 @@
 # Group_1_Gapminder_Analysis
 
 
-## 📊 Project Description
+###  Project Description
 
 This project analyzes global health and economic data using Gapminder datasets in Google Colab.
 The data includes life expectancy, population, continent, and GDP per capita for countries.
@@ -13,7 +13,7 @@ The project focuses on:
 * Visualizing patterns using bar charts, histograms, and scatter plots
 * Classifying countries into income groups using a custom function
 
-## ▶️ How to Open in Google Colab
+###  How to Open in Google Colab
 
 Click the button below to open the notebook directly in Google Colab:
 
@@ -29,7 +29,7 @@ Click the button below to open the notebook directly in Google Colab:
 4. Run all cells from top to bottom
 
 
-## 👥 Group Members
+### 👥 Group Members
 
 * Wadha Abdulla - U25100392
 * Samar Salem - U25100513
